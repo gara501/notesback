@@ -1,0 +1,13 @@
+current: 'dev'
+dev:
+  host: "localhost"
+  user: "root"
+  password: "root"
+  database: "notes"
+  port: 8889
+prod:
+  host: "localhost"
+  user: "root"
+  password: "root"
+  database: "notes"
+  port: 8889
